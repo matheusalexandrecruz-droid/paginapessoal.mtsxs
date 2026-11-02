@@ -125,7 +125,7 @@ ul li a {
 ul li a:hover {
   background-color: #667385;
 }
-.palmeiras {
+.fav {
     background-color: white;
     display: flex;
     flex-direction: column;
