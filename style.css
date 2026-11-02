@@ -7,7 +7,7 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #101C2C;
+background-color: #0c2546;
 color: #F1E9DD;
 width: 100%;
 padding: 20px;
@@ -105,7 +105,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #3A3028;
+  background-color: #165f81;
   display: flex;
   justify-content: center;
 }
@@ -116,7 +116,7 @@ ul li {
 
 ul li a {
   display: block;
-  color: #D97732;
+  color: #F1E9DD;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
